@@ -1,0 +1,10 @@
+{
+  "name": "warframe-relic-market-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-28",
+  "workers_dev": true,
+  "vars": {
+    "ALLOWED_ORIGIN": "https://shinkureru.github.io",
+    "APP_USER_AGENT": "RelicScanner/1.8 (+https://github.com/shinkureru/warframe-relic-scanner)",
+  },
+}
